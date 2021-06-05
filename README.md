@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @kilowatthours
-- 👀 I’m interested in classic vinyl, cycling, and all things DevOps
-- 🌱 I’m currently learning advanced Python and Go
+Just a random collection of scripts...
+
 - 📫 How to reach me: kilowatthours@icloud.com | https://linkedin.com/in/kennethwhughes
