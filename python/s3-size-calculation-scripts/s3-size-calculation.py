@@ -3,9 +3,9 @@
 #                                                                             #
 #    NOTES: 	This script calculates size of all S3 buckets                 #
 #                                                                             #
-#    AUTHOR:	Stepan Litsevych                                              #
+#    AUTHOR:	Ken Hughes                                                    #
 #                                                                             #
-#    Copyright 2020 - Baxter Planning Systems, Inc. All rights reserved       #
+#    Copyright 2020 - Ken Hughes - All rights reserved                        #
 ###############################################################################
 
 import boto3
